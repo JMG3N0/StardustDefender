@@ -2,6 +2,7 @@
 #include <Windows.h>
 #include "Data.h"
 #include <string>
+#include <time.h>
 
 using namespace std;
 
